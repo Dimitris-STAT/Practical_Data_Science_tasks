@@ -1,4 +1,4 @@
-# Practical_Data_Science_tasks
+# Practical Data Science projects
 
 This repo is a collection of 3 projects implemented on the scope of the Practical Data Science course.
 
