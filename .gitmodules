@@ -1,0 +1,9 @@
+[submodule "Proverbs_Humans_GPT"]
+	path = Proverbs_Humans_GPT
+	url = https://github.com/Dimitris-STAT/Proverbs_Humans_GPT.git
+[submodule "Lang_Detection_Toxicity_Classification"]
+	path = Lang_Detection_Toxicity_Classification
+	url = https://github.com/Dimitris-STAT/Lang_Detection_Toxicity_Classification.git
+[submodule "LLM_text_Detection"]
+	path = LLM_text_Detection
+	url = https://github.com/Dimitris-STAT/LLM_text_Detection.git
